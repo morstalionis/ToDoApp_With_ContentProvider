@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="tab_text_1">PENDING</string>
+    <string name="tab_text_2">COMPLETED</string>
+</resources>
